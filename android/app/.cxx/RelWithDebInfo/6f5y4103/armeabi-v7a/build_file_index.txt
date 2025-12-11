@@ -1,0 +1,11 @@
+/opt/www/react/plantcare/node_modules/@bam.tech/react-native-image-resizer/android/build/generated/source/codegen/jni/CMakeLists.txt
+/opt/www/react/plantcare/node_modules/@react-native-vector-icons/evil-icons/android/build/generated/source/codegen/jni/CMakeLists.txt
+/opt/www/react/plantcare/node_modules/@react-native-vector-icons/fontawesome6/android/build/generated/source/codegen/jni/CMakeLists.txt
+/opt/www/react/plantcare/node_modules/@react-native-vector-icons/material-icons/android/build/generated/source/codegen/jni/CMakeLists.txt
+/opt/www/react/plantcare/node_modules/react-native-gesture-handler/android/build/generated/source/codegen/jni/CMakeLists.txt
+/opt/www/react/plantcare/node_modules/react-native-image-picker/android/build/generated/source/codegen/jni/CMakeLists.txt
+/opt/www/react/plantcare/node_modules/react-native-quick-sqlite/android/build/generated/source/codegen/jni/CMakeLists.txt
+/opt/www/react/plantcare/node_modules/react-native-safe-area-context/android/src/main/jni/CMakeLists.txt
+/opt/www/react/plantcare/node_modules/react-native-screens/android/src/main/jni/CMakeLists.txt
+/opt/www/react/plantcare/node_modules/react-native-vector-icons/android/build/generated/source/codegen/jni/CMakeLists.txt
+/opt/www/react/plantcare/node_modules/react-native/ReactAndroid/cmake-utils/default-app-setup/CMakeLists.txt

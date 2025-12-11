@@ -1,0 +1,1 @@
+/opt/www/react/plantcare/android/app/build/intermediates/cxx/RelWithDebInfo/6f5y4103/obj/x86

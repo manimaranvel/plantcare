@@ -1,0 +1,4 @@
+/opt/www/react/plantcare/android/app/.cxx/RelWithDebInfo/6f5y4103/x86_64/CMakeFiles/_CMakeLTOTest-CXX/bin/CMakeFiles/foo.dir
+/opt/www/react/plantcare/android/app/.cxx/RelWithDebInfo/6f5y4103/x86_64/CMakeFiles/_CMakeLTOTest-CXX/bin/CMakeFiles/boo.dir
+/opt/www/react/plantcare/android/app/.cxx/RelWithDebInfo/6f5y4103/x86_64/CMakeFiles/_CMakeLTOTest-CXX/bin/CMakeFiles/edit_cache.dir
+/opt/www/react/plantcare/android/app/.cxx/RelWithDebInfo/6f5y4103/x86_64/CMakeFiles/_CMakeLTOTest-CXX/bin/CMakeFiles/rebuild_cache.dir
